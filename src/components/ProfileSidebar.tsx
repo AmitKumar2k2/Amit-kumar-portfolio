@@ -1,5 +1,5 @@
 import React from 'react';
-import myPhoto from 'src/Photo/my-photo.jpg';
+import myPhoto from './Photo/my-photo.jpg';
 import { Download, Eye, Github, Linkedin, Mail, MapPin } from 'lucide-react';
 
 const ProfileSidebar: React.FC = () => {
