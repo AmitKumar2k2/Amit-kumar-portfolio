@@ -34,7 +34,7 @@ const ContactSection: React.FC = () => {
                   </div>
                   <div>
                     <p className="text-white font-medium">Location</p>
-                    <p className="text-gray-400">Mohali, India</p>
+                    <p className="text-gray-400">Gurgaon, India</p>
                   </div>
                 </div>
               </div>
