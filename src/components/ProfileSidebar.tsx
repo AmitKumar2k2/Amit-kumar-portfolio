@@ -34,7 +34,7 @@ const ProfileSidebar: React.FC = () => {
         <div className="w-full space-y-3 mb-8">
           <div className="flex items-center text-sm text-gray-400">
             <MapPin className="w-4 h-4 mr-3 text-orange-400" />
-            <span>Mohali, India</span>
+            <span>Gurgaon, India</span>
           </div>
           <div className="flex items-center text-sm text-gray-400">
             <Mail className="w-4 h-4 mr-3 text-orange-400" />
