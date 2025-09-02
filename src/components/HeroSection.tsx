@@ -17,7 +17,7 @@ const HeroSection: React.FC = () => {
         {/* Stats */}
         <div className="grid grid-cols-3 gap-8 mb-12">
           <div className="text-center">
-            <div className="text-4xl font-bold text-orange-400 mb-2">+2</div>
+            <div className="text-4xl font-bold text-orange-400 mb-2">Fresher</div>
             <div className="text-sm text-gray-400 uppercase tracking-wide">Years of Experience</div>
           </div>
           <div className="text-center">
