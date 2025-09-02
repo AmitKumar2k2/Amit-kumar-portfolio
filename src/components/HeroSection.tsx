@@ -21,7 +21,7 @@ const HeroSection: React.FC = () => {
             <div className="text-sm text-gray-400 uppercase tracking-wide">Years of Experience</div>
           </div>
           <div className="text-center">
-            <div className="text-4xl font-bold text-orange-400 mb-2">+15</div>
+            <div className="text-4xl font-bold text-orange-400 mb-2">+5</div>
             <div className="text-sm text-gray-400 uppercase tracking-wide">Projects Completed</div>
           </div>
           <div className="text-center">
